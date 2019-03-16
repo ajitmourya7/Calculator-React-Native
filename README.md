@@ -17,6 +17,8 @@ clone this repo.
 in calculator folder open terminal
 
 ```sh
+npm install
+
 react-native start
 
 ```
